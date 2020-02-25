@@ -1,7 +1,11 @@
 git
 github
 web
+ *laravel
+ *CI
+ *java
 Android
    *java
    *kotlin
+
    
